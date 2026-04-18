@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-04-18T20:31:28.589621+00:00",
+  "recovery_score": 56.0,
+  "hrv_ms": 57.99128,
+  "rhr": 57.0,
+  "spo2": 94.911766,
+  "skin_temp_c": 34.3,
+  "sleep_start": "2026-04-18T04:34:36.009Z",
+  "sleep_end": "2026-04-18T13:38:39.878Z",
+  "sleep_performance_pct": 86.0,
+  "sleep_efficiency_pct": 92.45449,
+  "sleep_consistency_pct": 79.0,
+  "total_sleep_min": 503.0,
+  "rem_min": 172.8,
+  "swv_min": 102.6,
+  "sleep_debt_min": 0.0,
+  "disturbances": 6,
+  "day_strain": 3.9495132,
+  "day_avg_hr": 67,
+  "day_max_hr": 119,
+  "day_kilojoules": 5447.689,
+  "workout_count_today": 0
+}
