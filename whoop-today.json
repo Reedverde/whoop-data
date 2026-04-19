@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-19T11:30:58.483254+00:00",
+  "fetched_at": "2026-04-19T12:49:10.423408+00:00",
   "recovery_score": 56.0,
   "hrv_ms": 57.99128,
   "rhr": 57.0,
@@ -29,7 +29,7 @@
   "day_strain": 4.1927514,
   "day_avg_hr": 67,
   "day_max_hr": 121,
-  "day_kilojoules": 10639.507,
+  "day_kilojoules": 11080.514,
   "workout_count_today": 0,
   "latest_workout_sport": null,
   "latest_workout_strain": null,
