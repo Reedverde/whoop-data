@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-27T15:02:59.511255+00:00",
+  "fetched_at": "2026-04-27T17:17:08.277779+00:00",
   "recovery_score": 95.0,
   "hrv_ms": 78.97831,
   "rhr": 57.0,
@@ -26,10 +26,10 @@
   "sleep_need_from_strain_min": 9.1,
   "sleep_need_from_nap_min": 0.0,
   "cycle_start": "2026-04-27T05:06:40.502Z",
-  "day_strain": 4.70069,
-  "day_avg_hr": 60,
+  "day_strain": 5.933641,
+  "day_avg_hr": 64,
   "day_max_hr": 131,
-  "day_kilojoules": 3501.0452,
+  "day_kilojoules": 4556.385,
   "workout_count_today": 1,
   "latest_workout_sport": "jumping-rope",
   "latest_workout_strain": 4.797456,
@@ -40,6 +40,6 @@
   "latest_workout_altitude_gain_m": null,
   "latest_workout_end": "2026-04-27T04:47:59.623Z",
   "height_m": 1.8288,
-  "weight_kg": 91.246,
+  "weight_kg": 92.34,
   "max_hr_bpm": 180
 }
