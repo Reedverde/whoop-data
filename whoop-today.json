@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-18T14:26:52.622322+00:00",
+  "fetched_at": "2026-05-18T17:27:45.423692+00:00",
   "recovery_score": 93.0,
   "hrv_ms": 85.593285,
   "rhr": 60.0,
@@ -26,10 +26,10 @@
   "sleep_need_from_strain_min": 7.1,
   "sleep_need_from_nap_min": 0.0,
   "cycle_start": "2026-05-18T05:36:11.694Z",
-  "day_strain": 4.245763,
-  "day_avg_hr": 61,
-  "day_max_hr": 132,
-  "day_kilojoules": 3118.9548,
+  "day_strain": 5.005271,
+  "day_avg_hr": 65,
+  "day_max_hr": 141,
+  "day_kilojoules": 4307.787,
   "workout_count_today": 0,
   "latest_workout_sport": null,
   "latest_workout_strain": null,
@@ -40,6 +40,6 @@
   "latest_workout_altitude_gain_m": null,
   "latest_workout_end": null,
   "height_m": 1.8288,
-  "weight_kg": 92.092,
+  "weight_kg": 92.03,
   "max_hr_bpm": 189
 }
